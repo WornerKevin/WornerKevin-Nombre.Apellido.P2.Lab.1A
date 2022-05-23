@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1653307055 source:c:\users\kevin worner\desktop\parcial labo worner\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Color.h"
+
+1653306492 c:\users\kevin worner\desktop\parcial labo worner\color.h
+
+1652897340 source:c:\users\kevin worner\desktop\parcial labo worner\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fecha.h"
+	"input.h"
+
+1653253095 c:\users\kevin worner\desktop\parcial labo worner\fecha.h
+
+1653253095 c:\users\kevin worner\desktop\parcial labo worner\input.h
+
+1652489600 source:c:\users\kevin worner\desktop\parcial labo worner\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1653317886 source:c:\users\kevin worner\desktop\parcial labo worner\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+
+1653253095 c:\users\kevin worner\desktop\parcial labo worner\menu.h
+
+1652849960 source:c:\users\kevin worner\desktop\parcial labo worner\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Servicio.h"
+
+1653253095 c:\users\kevin worner\desktop\parcial labo worner\servicio.h
+
+1653308312 source:c:\users\kevin worner\desktop\parcial labo worner\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+	"Validaciones.h"
+
+1653308312 c:\users\kevin worner\desktop\parcial labo worner\validaciones.h
+
+1653310784 source:c:\users\kevin worner\desktop\parcial labo worner\harcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Harcodeo.h"
+	"Mascota.h"
+	"Trabajo.h"
+	"Cliente.h"
+
+1653310641 c:\users\kevin worner\desktop\parcial labo worner\harcodeo.h
+	"Mascota.h"
+	"Trabajo.h"
+
+1653317853 c:\users\kevin worner\desktop\parcial labo worner\mascota.h
+	"Trabajo.h"
+	"Servicio.h"
+	"Tipo.h"
+	"Color.h"
+	"Cliente.h"
+
+1653253095 c:\users\kevin worner\desktop\parcial labo worner\trabajo.h
+	"Fecha.h"
+
+1653307283 c:\users\kevin worner\desktop\parcial labo worner\tipo.h
+
+1653317950 source:c:\users\kevin worner\desktop\parcial labo worner\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Tipo.h"
+	"Color.h"
+	"Servicio.h"
+	"Mascota.h"
+	"Trabajo.h"
+	"Harcodeo.h"
+
+1653307283 source:c:\users\kevin worner\desktop\parcial labo worner\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipo.h"
+	"input.h"
+
+1652637421 source:c:\users\kevin worner\desktop\parcial labo worner\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Trabajo.h"
+	"Servicio.h"
+	"Mascota.h"
+	"Tipo.h"
+	"input.h"
+
+1653317808 source:c:\users\kevin worner\desktop\parcial labo worner\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mascota.h"
+	"Trabajo.h"
+	"Servicio.h"
+	"Tipo.h"
+	"Color.h"
+	"Cliente.h"
+	"input.h"
+	"Fecha.h"
+	"Validaciones.h"
+
+1653309140 source:c:\users\kevin worner\desktop\parcial labo worner\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cliente.h"
+
+1653309140 c:\users\kevin worner\desktop\parcial labo worner\cliente.h
+
